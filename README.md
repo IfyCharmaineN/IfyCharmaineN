@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I'm Ify 👋
 
 <!--
-**IfyCharmaineN/IfyCharmaineN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 🖥️ I'm an IT coordinator based in London and a Software Engineering student learning Python, SQL, Swift UI and more.
 
-Here are some ideas to get you started:
+What You'll Find Here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Scraper Program:
+
+🚀 Collects data from a real webpage with an article that displays the highest grossing companies in the UK.
+
+Finance Calculator:
+
+📈 A terminal based calculator that calculates the user's investment on a bond or the repayment on a home loan.
+
+Connect with me:
+
+💼 LinkedIn: https://www.linkedin.com/in/ifynwokolo/
+
+Thanks for stopping by! Happy coding! 🚀
